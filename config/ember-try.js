@@ -4,7 +4,7 @@ module.exports = {
     {
       name: 'default',
       bower: {
-        dependencies: { }
+        dependencies: {}
       }
     },
     {
